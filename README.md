@@ -2,16 +2,16 @@
 
 This repository contains coursework from **Fall 2024 (113-1)** across three advanced courses:
 
-- **[Computer Networks](computer-networks/README.md)**
-- **[Data Mining](data-mining/README.md)**
-- **[Generative Information Retrieval (GIR)](information-retrieval/README.md)**
+- **[Computer Networks](Computer Networks/README.md)**
+- **[Data Mining](Data Mining/README.md)**
+- **[Generative Information Retrieval ](Generative Information Retrieval/README.md)**
 
 Each project showcases hands-on experience in **machine learning, network virtualization, and information retrieval**, solving real-world industry problems.
 
 ---
 
 ## **📌 Computer Networks**
-📂 **[Full Details & Reports](computer-networks/README.md)**
+📂 **[Full Details & Reports](Computer Networks/README.md)**
 
 - **HW1: Software-Defined Networking (SDN) & Mininet**
 - **HW2: Network Function Virtualization (NFV) - Dual Path Routing**
@@ -21,18 +21,18 @@ Each project showcases hands-on experience in **machine learning, network virtua
 ---
 
 ## **📌 Data Mining**
-📂 **[Full Details & Reports](data-mining/README.md)**
+📂 **[Full Details & Reports](Data Mining/README.md)**
 
 - **HW1: Frequent Itemset Mining (Apriori Algorithm)**
 - **HW2: Machine Learning for Predictive Modeling (Kaggle Competition)**
-- **[Project: Advanced Data Analytics & Feature Engineering](data-mining/project/README.md)**
+- **[Project: Advanced Data Analytics & Feature Engineering](Data Mining/Term project/README.md)**
 
 **Technologies:** Python (pandas, scikit-learn), Apriori, Random Forest, XGBoost, Data Preprocessing
 
 ---
 
 ## **📌 Generative Information Retrieval (GIR)**
-📂 **[Full Details & Reports](information-retrieval/README.md)**
+📂 **[Full Details & Reports](Generative Information Retrieval/README.md)**
 
 - **HW1: Information Retrieval with Vector Model & BM25**
 - **HW2: Automated Fact Checking using NLP**
