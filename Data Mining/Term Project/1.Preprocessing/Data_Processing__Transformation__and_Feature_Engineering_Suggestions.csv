@@ -1,0 +1,18 @@
+Attribute,Data Processing,Data Transformation,Feature Engineering
+Gender,"Check for missing values, standardize labels",Label encoding or one-hot encoding,No specific changes needed
+Age,"Handle missing values, check for outliers",Min-Max scaling or Standardization,Optional: Bin into age groups
+Height,"Check for consistency, handle missing values or outliers",Min-Max scaling or Standardization,No changes needed
+Weight,"Handle missing values, check for outliers",Normalize/Standardize,Optional: Derive BMI from height and weight
+Family History with Overweight,Check for missing or inconsistent data,"Convert to binary (1=Yes, 0=No)",No specific changes needed
+FAVC,Ensure no missing/erroneous entries,"Convert to binary (1=Yes, 0=No)",No specific changes needed
+FCVC,Handle missing or incorrect values,Normalize or Standardize,"Optional: Bin into categories (Low, Moderate, High)"
+NCP,"Handle missing values, ensure no unrealistic numbers",Normalize or Standardize,"Optional: Bin into categories (Few, Moderate, Many)"
+CAEC,Check for missing or unusual entries,One-hot or numerical encoding,No changes needed
+SMOKE,Ensure no missing values,"Convert to binary (1=Yes, 0=No)",Analyze correlations with lifestyle habits
+CH2O,"Handle missing values, check for outliers",Normalize or Standardize,"Optional: Bin into categories (Low, Moderate, High)"
+SCC,Ensure no missing values,"Convert to binary (1=Yes, 0=No)",No specific changes needed
+FAF,"Handle missing values, check for outliers",Normalize or Standardize,"Optional: Bin into categories (None, Low, Moderate, High)"
+TUE,"Handle missing values, check for outliers",Normalize or Standardize,"Optional: Bin into categories (Low, Moderate, High)"
+CALC,Check for missing or unusual entries,One-hot or numerical encoding,Analyze correlations with other habits
+MTRANS,"Ensure consistent data values, handle missing entries",One-hot or numerical encoding,Group into active vs sedentary transport
+NObeyesdad,Check for any missing labels,Convert to numerical labels,Treat as multi-class target
