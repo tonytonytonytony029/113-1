@@ -17,8 +17,3 @@ This repository contains coursework from the **Data Mining** course, covering **
 - Trained **Random Forest, XGBoost, and Neural Network models**.
 - Evaluated models using **5-Fold Cross-Validation** and metrics like **AUROC & Macro F1-Score**.
 
-## **Project: Advanced Data Analytics & Feature Engineering**
-📂 **[Project Details](project/README.md)**  
-**Objective**: Develop a **data analytics pipeline** for feature selection and model optimization.
-
-**Technologies Used**: Python (pandas, scikit-learn), Apriori, Random Forest, XGBoost, Feature Engineering
