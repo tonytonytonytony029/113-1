@@ -25,13 +25,12 @@ Each project showcases hands-on experience in **machine learning, network virtua
 
 - **HW1: Frequent Itemset Mining (Apriori Algorithm)**
 - **HW2: Machine Learning for Predictive Modeling (Kaggle Competition)**
-- **[Project: Advanced Data Analytics & Feature Engineering](Data%20Mining/Term%20Project/README.md)**
 
 **Technologies:** Python (pandas, scikit-learn), Apriori, Random Forest, XGBoost, Data Preprocessing
 
 ---
 
-## **📌 Generative Information Retrieval **
+## **📌 Generative Information Retrieval**
 📂 **[Full Details & Reports](Generative%20information%20retrieval/README.md)**
 
 - **HW1: Information Retrieval with Vector Model & BM25**
