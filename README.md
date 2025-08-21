@@ -10,7 +10,7 @@ Each project showcases hands-on experience in **machine learning, network virtua
 
 ---
 
-## **📌 Computer Networks**
+## ** Computer Networks**
 📂 **[Full Details & Reports](Computer%20Network/README.md)**
 
 - **HW1: Software-Defined Networking (SDN) & Mininet**
@@ -20,7 +20,7 @@ Each project showcases hands-on experience in **machine learning, network virtua
 
 ---
 
-## **📌 Data Mining**
+## ** Data Mining**
 📂 **[Full Details & Reports](Data%20Mining/README.md)**
 
 - **HW1: Frequent Itemset Mining (Apriori Algorithm)**
@@ -30,7 +30,7 @@ Each project showcases hands-on experience in **machine learning, network virtua
 
 ---
 
-## **📌 Generative Information Retrieval**
+## ** Generative Information Retrieval**
 📂 **[Full Details & Reports](Generative%20information%20retrieval/README.md)**
 
 - **HW1: Information Retrieval with Vector Model & BM25**
