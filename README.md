@@ -11,7 +11,7 @@ Each project showcases hands-on experience in **machine learning, network virtua
 ---
 
 ## ** Computer Networks**
-📂 **[Full Details & Reports](Computer%20Network/README.md)**
+ **[Full Details & Reports](Computer%20Network/README.md)**
 
 - **HW1: Software-Defined Networking (SDN) & Mininet**
 - **HW2: Network Function Virtualization (NFV) - Dual Path Routing**
@@ -21,7 +21,7 @@ Each project showcases hands-on experience in **machine learning, network virtua
 ---
 
 ## ** Data Mining**
-📂 **[Full Details & Reports](Data%20Mining/README.md)**
+ **[Full Details & Reports](Data%20Mining/README.md)**
 
 - **HW1: Frequent Itemset Mining (Apriori Algorithm)**
 - **HW2: Machine Learning for Predictive Modeling (Kaggle Competition)**
@@ -31,7 +31,7 @@ Each project showcases hands-on experience in **machine learning, network virtua
 ---
 
 ## ** Generative Information Retrieval**
-📂 **[Full Details & Reports](Generative%20information%20retrieval/README.md)**
+ **[Full Details & Reports](Generative%20information%20retrieval/README.md)**
 
 - **HW1: Information Retrieval with Vector Model & BM25**
 - **HW2: Automated Fact Checking using NLP**
